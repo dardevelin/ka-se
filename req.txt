@@ -1,0 +1,17 @@
+
+### structure of content:
+
+# title
+# input tag | inserting data. input fields fit in "forms".
+# <ul> ( list of items )
+
+# leave presentation to very end because behavior can animated
+
+# html -> structure
+# css -> presetantion ( leave to end because behavior migth need better presentation )
+
+this project's order [ html, css ]
+
+# behavior
+- trap form input
+- html to embedde in the page ( find ways of using javascript to create html elements )
